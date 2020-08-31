@@ -50,13 +50,13 @@ include 'common/header.php';
           </div>
           <div class="col-sm-12 col-md-5">
             <h3 class="text-orange text-uppercase">About Us</h3>
-            <p>Dinie Recettes helps people to find variety of recipes using specification like recipe name, category, cuisine type or ingredients.The ambition of Dinie Recettes is to provide its users a detailed instruction of a recipe like a list and portion of ingredients required, cooking time, number of serving, step-by-step instruction and a link to video instruction of that recipe. It also takes care of all kind of its users who love to follow their diet and eat food with specific calories.</p>
+            <p>Dinie Recettes helps people to find variety of recipes using specification like Recipe name, Category, Cuisine type or Ingredients.The ambition of Dinie Recettes is to provide its users a detailed instruction of a recipe like a list and portion of ingredients required, cooking time, number of serving, step-by-step instruction and a link to video instruction of that recipe. It also takes care of all kind of its users who love to follow their diet and eat food with specific calories.</p>
             <div class="row mt-30 mb-30 ml-20">
              <div class="col-xs-6">
               <ul class="mt-10">
                 <li class="mb-10"><i class="fa fa-check-circle text-orange"></i>&emsp;View Recipe</li>
                 <li class="mb-10"><i class="fa fa-check-circle text-orange"></i>&emsp;Search Recipe</li>
-                <li class="mb-10"><i class="fa fa-check-circle text-orange"></i>&emsp;Add/Edit/Delete Recipe</li>
+                <li class="mb-10"><i class="fa fa-check-circle text-orange"></i>&emsp;Add/Update/Delete Recipe</li>
               </ul>
              </div>
              <div class="col-xs-6">
@@ -67,7 +67,7 @@ include 'common/header.php';
               </ul>
              </div>
             </div>
-            <p>The main purpose of this food recipe website is to make cooking both a chore and pleasure by featuring plenty of food recipes prepared by Chefs with easy and step-by-step cooking instructions. It is a beautiful concept central to the fact that food recipes must always be at its user’s fingertips. The application aims to help newbies as much as experienced foodie users of this application.</p>
+            <p>The main purpose of this Food Recipe website is to make cooking both a chore and pleasure by featuring plenty of food recipes prepared by Chefs with easy and step-by-step cooking instructions. It is a beautiful concept central to the fact that food recipes must always be at its user’s fingertips. The application aims to help newbies as much as experienced foodie users of this application.</p>
           </div>
         </div>
       </div>
