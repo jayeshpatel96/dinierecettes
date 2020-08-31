@@ -1,0 +1,32 @@
+.wthreelogin-text{
+    margin-top: 2em;
+}
+.wthreelogin-text ul li {
+    display: inline-block;
+    float: left;
+}
+.wthreelogin-text ul li:nth-child(2) {
+    float: right;
+}
+.wthreelogin-text ul li a {
+    font-size: 1em;
+    color: #999;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+}
+.wthreelogin-text ul li a:hover{ 
+    color: #fd463e;
+} 
+.wthreelogin-text label.checkbox {
+    margin: 0;
+    margin-left: 2em; 
+}
+.wthreelogin-text span {
+    color: #777;
+
+}
+
+
