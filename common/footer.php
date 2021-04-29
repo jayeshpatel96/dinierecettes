@@ -57,7 +57,7 @@
     <div class="container-fluid p-20" data-bg-color="#ff5a5f">
       <div class="row text-center">
         <div class="col-md-12">
-          <p class="font-11 text-white m-0">Copyright &copy;2020 Dinie Recettes. All Rights Reserved</p>
+          <p class="font-11 text-white m-0">Copyright &copy;2021 Dinie Recettes. All Rights Reserved</p>
         </div>
       </div>
     </div>

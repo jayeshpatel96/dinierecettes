@@ -1,4 +1,3 @@
-
 <?php 
 
 include 'common/header.php'; 
@@ -7,8 +6,9 @@ include_once('Admin/lib/model.php');
 
 $d = new dao();
 $m = new model();
+$stars=0;
 
-if(isset($_SESSION['user_id']))
+/*if(isset($_SESSION['user_id']))
 {
     $user_id=$_SESSION['user_id'];
 
@@ -23,13 +23,12 @@ if(isset($_SESSION['user_id']))
       extract($data);
       $stars=$number_of_stars;
     
-
     }
     else
     {
       $stars=0;
     }
-}
+}*/
    
    
 

@@ -6,6 +6,7 @@ include_once('Admin/lib/dbconnect.php');
 
 $d = new dao();
 $m = new model();
+$currentpage='index';
 
 $q=$d->select("company_info","","");
 

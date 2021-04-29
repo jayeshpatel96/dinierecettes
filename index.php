@@ -1,5 +1,5 @@
 <?php
-$currentpage='index';
+
  include 'common/header.php'; ?>
   
   <!-- Start main-content -->
